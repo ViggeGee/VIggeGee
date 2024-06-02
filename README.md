@@ -28,20 +28,25 @@ Check out my portfolio here: https://victorgustafsson65.wixsite.com/victorportfo
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
+<br />
 
-#
-          
-          
-          
-          
-          
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+
+- Unreal Engine 5
+- Blender
+
+---
+
+### 📂 Projects:
+
+- **[Project Name](https://github.com/yourusername/projectname)**: Brief description of the project.
+- **[Another Project](https://github.com/yourusername/anotherproject)**: Brief description of the project.
+
+---
+
+### 📫 How to Reach Me:
+
+- Gmail: [VictorGustafssono65@gmail.com](mailto:VictorGustafssono65@gmail.com)
+- LinkedIn: [Victor Gustafsson](https://www.linkedin.com/in/victor-gustafsson-6915b61ba/)
