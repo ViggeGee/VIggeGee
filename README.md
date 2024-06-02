@@ -39,13 +39,6 @@ Check out my portfolio here: https://victorgustafsson65.wixsite.com/victorportfo
 
 ---
 
-### 📂 Projects:
-
-- **[Project Name](https://github.com/yourusername/projectname)**: Brief description of the project.
-- **[Another Project](https://github.com/yourusername/anotherproject)**: Brief description of the project.
-
----
-
 ### 📫 How to Reach Me:
 
 - Gmail: [VictorGustafssono65@gmail.com](mailto:VictorGustafssono65@gmail.com)
