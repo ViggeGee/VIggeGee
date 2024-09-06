@@ -8,7 +8,7 @@ Hello! 👋
 <br />
 I am a 24 year old Game Development student studying in Malmö University
 <br />
-I will soon be starting my third year in a Bachelor Program in Game Development. 
+I have just started my third year in a Bachelor Program in Game Development. 
 <br />
 My game engine of choice is Unity but I am currently learning Unreal as well. 
 <br />
