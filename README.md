@@ -14,7 +14,7 @@ My game engine of choice is Unity but I am currently learning Unreal as well.
 <br />
 My primary languages are C# and C++ with some minor knowladge in Java.
 
-#### 💼 Check out my portfolio here: https://victorgustafsson65.wixsite.com/victorportfolj
+💼 Check out my portfolio here: https://victorgustafsson65.wixsite.com/victorportfolj
 
 ---
 
