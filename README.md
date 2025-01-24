@@ -34,8 +34,8 @@ My primary languages are C# and C++ with some minor knowladge in Java.
 
 ### 🌱 Currently Learning:
 
-- Procedural Content Generation
-- Blender
+- Advanced C++
+- HTML & CSS
 
 ---
 
